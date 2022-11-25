@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q2 {
+public class a^b {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the 'Base' & 'Power' :");
